@@ -20,16 +20,19 @@ nav li a {
 .one{
 
 }
-.two{
+.two h1{
 display:flex;
 justify-content:center;
 }
+    
 .bootstrap{
     width:200px;
     height:150px;
     border:2px solid #050505;
     box-shadow:2px 2px 0 #050505;
     margin-right:10px;
+    display: block;
+   
 }
 button{
     width:80px;
@@ -41,12 +44,15 @@ button{
     border:2px solid #050505;
     box-shadow:2px 2px 0 #050505;
     margin-right:10px;
+     
 }
-.three{
-
+.three h1,p{
+    display:flex;
+    justify-content:center;
 }
-.four{
-
+.four h1,p{
+    display:flex;
+    justify-content:center;
 }
 .fix-footer{
 
