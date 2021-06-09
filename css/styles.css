@@ -29,6 +29,10 @@ nav li a {
     height:150px;
     border:6px solid #050505;
 }
+button{
+    width:60px;
+    height:20px;
+}
 .first-website{
     width:200px;
     height:150px;
