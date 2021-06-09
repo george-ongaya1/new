@@ -5,7 +5,7 @@ body{
 
 }
 nav{
-
+justify-content: end;
 }
 nav li{
 
@@ -21,7 +21,7 @@ nav li a {
 
 }
 .two{
-    
+
 }
 .fix-footer{
 
